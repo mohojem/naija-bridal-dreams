@@ -23,13 +23,13 @@ const HeroSection = () => {
           Where Dreams Meet Tradition
         </h1>
         <p className="mb-12 max-w-2xl animate-fade-in text-lg text-white/90 md:text-xl">
-          Exquisite handcrafted wedding dresses blending Nigerian heritage with contemporary luxury
+          Explore our catalogue of exquisite handcrafted wedding dresses blending Nigerian heritage with contemporary luxury
         </p>
         <Button 
           size="lg"
           className="animate-fade-in bg-gold text-primary hover:bg-gold-dark transition-all duration-300 text-base px-8 py-6 shadow-elegant"
         >
-          Book Consultation
+          View Collection
         </Button>
       </div>
     </section>
